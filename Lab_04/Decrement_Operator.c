@@ -1,15 +1,14 @@
 #include<stdio.h>
-
 int main ()
 {
-    int x = 5 ;
-
-    printf("The Initial Value of x: %d\n ", x );
-
-    printf("Prefix Decrement ( --x ): %d\n\n", --x );   
-
-    printf("Postfix Decrement ( x-- ): %d\n\n", x-- ); 
+    int x ;
     
+    printf("The Initial Value of x: ");
+    scanf("%d",&x);
+    
+    printf("Postfix Decrement : %d\n", x-- );
+    printf("After Postfix Decrement :%d\n",x);
+    printf("Prefix Decrement : %d\n", --x ); 
 
     return 0 ;
 
