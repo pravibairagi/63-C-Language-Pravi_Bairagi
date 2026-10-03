@@ -13,5 +13,6 @@ int main ()
     A = B ;
     B = C ;
     printf("Swapped value of A is %d and value of B is %d.", A, B ) ;
+    printf("\nDone by Pravi Bairagi.") ;
     return 0 ;
 }
