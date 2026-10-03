@@ -12,6 +12,7 @@ int main ()
     printf("a < b  : %d\n", a < b);
     printf("a == b : %d\n", a == b);
     printf("a != b : %d\n", a != b);
+    printf("\nDone by Pravi Bairagi.") ;
     return 0 ;
 
 } 
