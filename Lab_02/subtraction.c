@@ -4,13 +4,14 @@ int main ()
     int a ;
     int b;
 
-    printf("enter the value of a :",a);
+    printf("Enter the value of a :",a);
     scanf("%d",&a) ; 
     
-    printf("enter the value of b :",b);
+    printf("Enter the value of b :",b);
     scanf("%d",&b) ; 
 
     int c = a-b ;
-    printf("the value of c = %d",c);
+    printf("The subtraction of A and B = %d",c);
+    printf("\nDone by Pravi Bairagi.") ;
     return 0 ;
     }
