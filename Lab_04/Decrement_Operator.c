@@ -9,6 +9,7 @@ int main ()
     printf("Postfix Decrement : %d\n", x-- );
     printf("After Postfix Decrement :%d\n",x);
     printf("Prefix Decrement : %d\n", --x ); 
+    printf("\nDone by Pravi Bairagi.") ;
 
     return 0 ;
 
