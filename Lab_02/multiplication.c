@@ -11,5 +11,6 @@ int main ()
 
     float c = a*b ;
     printf("The multiplication of A and B = %f" ,c);
+    printf("\nDone by Pravi Bairagi.") ;
     return 0 ;
 }
