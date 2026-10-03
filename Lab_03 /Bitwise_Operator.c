@@ -9,7 +9,8 @@ int main ()
     printf("3. Bitwise XOR (a ^ b)  = %u\n", a ^ b); 
     printf("4. Bitwise Complement (~a) = %u\n", ~a);
     printf("5. Left Shift (a << b)  = %u\n", a << b);
-    printf("6. Right Shift (a >> b) = %u\n", a >> b); 
+    printf("6. Right Shift (a >> b) = %u\n", a >> b):
+    printf("\nDone by Pravi Bairagi.") ;
     return 0 ;
 
 } 
