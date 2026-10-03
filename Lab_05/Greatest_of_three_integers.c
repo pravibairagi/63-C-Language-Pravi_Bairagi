@@ -13,14 +13,15 @@ int main ()
     scanf("%d",&c );
 
     if(a>b && a>c ) { 
-    printf("%d is the greatest ", a);
+    printf("%d is the greatest integer ", a);
     }
     else if (b>a && b>c ) {
-    printf("%d is the greatest ", b );
+    printf("%d is the greatest integer ", b );
     }
     else {
-    printf("%d is the greatest ", c );
+    printf("%d is the greatest interger ", c );
     }
+   printf("\nDone by Pravi Bairagi.") ;
     return 0 ;
  }                                                                                                                                                                                                                                                                                                                                                                                                                                                     
                            
