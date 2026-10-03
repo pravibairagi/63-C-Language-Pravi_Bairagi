@@ -5,7 +5,8 @@ int main ()
     int b = 23 ;
     printf("Logical AND (a && b ) : %d \n", (a && b));
     printf("Logical OR (a || b ) : %d \n", (a|| b));
-    printf("Logical NOT (! b)   : %d \n", (! b)) ; 
+    printf("Logical NOT (! b)   : %d \n", (! b)) ;
+    printf("\nDone by Pravi Bairagi.") ;
     return 0 ;
 
 } 
