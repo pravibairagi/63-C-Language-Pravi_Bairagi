@@ -8,5 +8,6 @@ int main ()
         Sum = Sum + i ;
     }
     printf("Sum of first %d natural numbers is %d",n, Sum );
+    printf("\nDone by Pravi Bairagi.") ;
     return 0 ;
 }
