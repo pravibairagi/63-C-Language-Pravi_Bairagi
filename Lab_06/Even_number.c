@@ -3,9 +3,7 @@ int main (){
     int n ;
     printf("Enter a number : ");
     scanf("%d",&n);
-    for (int i = 1 ; i <= 100 ; i++ ){
-        if ( i %2 == 0) 
-        printf("%d",i) ;
-    }
+    if ( n%2 == 0)
+    printf("%d is an even number.",n) ;
     return 0 ;
 }
